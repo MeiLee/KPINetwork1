@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPINetwork1", "KPINetwork1\KPINetwork1.csproj", "{852E9298-2EDD-44C1-9B5B-1439168DA3E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{852E9298-2EDD-44C1-9B5B-1439168DA3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852E9298-2EDD-44C1-9B5B-1439168DA3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852E9298-2EDD-44C1-9B5B-1439168DA3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852E9298-2EDD-44C1-9B5B-1439168DA3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3925C8A-B6CD-48E0-A9F6-374B29940AC5}
+	EndGlobalSection
+EndGlobal
